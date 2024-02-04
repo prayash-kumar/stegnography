@@ -20,6 +20,6 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 # Contact
 For any inquiries or feedback, please contact [sidharthp868@gmail.com].
 # 📫 Get in Touch
-Twitter: https://twitter.com/Prayash03
-LinkedIn: https://www.linkedin.com/in/prayash-kumar-pandey-250638262/
-Email: sidharthp8689@gmail.com
+.Twitter: https://twitter.com/Prayash03
+.LinkedIn: https://www.linkedin.com/in/prayash-kumar-pandey-250638262/
+.Email: sidharthp8689@gmail.com
